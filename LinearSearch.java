@@ -25,6 +25,6 @@ public class LinearSearch {
     System.out.println();
     sc.close();
     LinearSearch obj=new LinearSearch();
-    obj.Search(element, a);
+    obj.Search(element,a);
   }  
 }
